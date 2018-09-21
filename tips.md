@@ -1,7 +1,9 @@
 # Tips
 
-- An effective resume is target to a specific job; its important to tell them what you're looking for and they'll match you to a job
-- target it to a specific job role
+- An effective resume is target to a specific job; its important to tell them
+  what you're looking for and they'll match you to a job
+- Target it to a specific job role by picking the JD, extracting keywords from
+  it and making your resume adequate to it.
 - Highlight what makes you unique and stand out from the crowd
 - Convey your skills consicely
 - Work Experience Description bullet points should convey:
@@ -14,8 +16,42 @@
 - Have a base resume, which for each application you can copy and tweak to match
   its JD by emphasizing certain aspects
 - Always state when was the last update, who knows where this is going to land
-- Name the file sensible, people should be able to tell the file is a resume,
-	who owns it and when it was last updated
-- Your CV should be usable digitally and in-print, meaning I should be able to
-  see the URLs on it when printed and be able to click on 'em when on a computer
-- Soft skills should be demostrated in the work experience description not as a list, that is for technical skills
+
+- Name the file sensible, people should be able to tell from the filename that
+  it is a resume, who owns it, in which language it is and when it was last updated,
+  e.g: CV-Paulo_-Phagula-English-2018-Jan
+
+- Your CV should be usable both digitally and in-print, meaning I should be able to
+  see the URLs on it when printed and be able to click on them when on a computer
+- Soft skills should be demostrated in the work experience description not as a list,
+  that is for technical skills
+- When adding any sort of graph make sure it is understandable. There are lots
+  of people adding some sort of graph to measure their skills, that go "JavaScript 35%",
+  but what does that mean? Does the person understand 35% of JavaScript?
+
+- Briefly describe your education: Which projects are you most proud of? Were you
+  involved in any student groups? Did you receive any awards or recognition?
+
+- Briefly describe you position: what were your day-to-day tasks at this role?
+  What problems did you solve? How did your work improve the product? What
+  technologies did you use?
+  At least 1 of these bullet points demonstrates an individual contribution.
+  At least 1 of these bullet points communicates a project result (success metrics, findings).
+
+- When listing references, say who they are, what they do and what is the
+  relation with them, i.e. why are they ideal people to recommend you, were they
+  your boss or customer.
+
+- as a first hire at UX I
+- I helped scale our systems from a single server to an load balanced AWS hosted
+  setup. From 1 country to 4 four.
+- Developed an internal tool used by our international content management team
+  to effortlessly generate and previews, the ads for facebook, allowing the designers to have more
+  free time for more interesting teams, and completely removing the time the content
+  publisher would waiting for the designer.
+- Developed the libraries that are now used company wise for integration with
+  SMS and USSD providers for all country operators. The library was initially
+  developed for Biscate, but was just decoupled such that it alloed resued and
+  have since then been used for MOPA, SOMA and SOGA.
+
+- Without being over descriptive communicate what language you used
