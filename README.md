@@ -18,6 +18,7 @@ On preparing resumes
 - [The Developer Resume Is Dead: Long Live the Portfolio](https://www.toptal.com/freelance-programmer/developer-resume-portfolios)
 - https://www.toptal.com <- they have a plenty of resumes for each of their
   employees.
+-  
 
 On interviews
 
@@ -30,14 +31,14 @@ On interviews
 See [`contributing.md` in `dareenzo/resume`][contributing] for ways to get started.
 
 This repo has a [Code of Conduct][coc].  By interacting with this
-repository, organisation, or community you agree to abide by its terms.
+repository, organization, or community you agree to abide by its terms.
 
 ## Self-Promo
 
-Like Résumé?  Star the repository on
+Like Résumé? Star the repository on
 [GitHub](https://github.com/dareenzo/resume).
 
-Love Résumé?  Follow [dareenzo](https://dareenzo.github.io) on
+Love Résumé? Follow [dareenzo](https://dareenzo.github.io) on
 [GitHub](https://github.com/dareenzo) and
 [Twitter](http://twitter.com/dareenzo).
 

@@ -5,11 +5,14 @@
 - Target it to a specific job role by picking the JD, extracting keywords from
   it and making your resume adequate to it.
 - Highlight what makes you unique and stand out from the crowd
-- Convey your skills consicely
+- Convey your skills concisely
 - Work Experience Description bullet points should convey:
   - Action
   - Numbers
   - Success
+
+   A nice way of showing it is using the formula "Accomplished [X] as measured by [Y] by doing [Z]"
+
 - 1 Page summary of your professional background; drop hobbies and references;
 - 1 Page only. Recruiters don't read second pages unless they're looking for seniors
 - Use PDF to make sure your formatting is preserved regardless of the reader
@@ -23,7 +26,7 @@
 
 - Your CV should be usable both digitally and in-print, meaning I should be able to
   see the URLs on it when printed and be able to click on them when on a computer
-- Soft skills should be demostrated in the work experience description not as a list,
+- Soft skills should be demonstrated in the work experience description not as a list,
   that is for technical skills
 - When adding any sort of graph make sure it is understandable. There are lots
   of people adding some sort of graph to measure their skills, that go "JavaScript 35%",
@@ -42,16 +45,3 @@
   relation with them, i.e. why are they ideal people to recommend you, were they
   your boss or customer.
 
-- as a first hire at UX I
-- I helped scale our systems from a single server to an load balanced AWS hosted
-  setup. From 1 country to 4 four.
-- Developed an internal tool used by our international content management team
-  to effortlessly generate and previews, the ads for facebook, allowing the designers to have more
-  free time for more interesting teams, and completely removing the time the content
-  publisher would waiting for the designer.
-- Developed the libraries that are now used company wise for integration with
-  SMS and USSD providers for all country operators. The library was initially
-  developed for Biscate, but was just decoupled such that it alloed resued and
-  have since then been used for MOPA, SOMA and SOGA.
-
-- Without being over descriptive communicate what language you used
